@@ -1,0 +1,223 @@
+.team1{
+	width: 1008px;
+	height: 473px;
+	margin: 0 auto;
+	margin-top: 40px;
+	margin-bottom: 80px;
+}
+.team_left{
+	float: left;
+	width: 237px;
+	height: 473px;
+}
+.team_right{
+	width: 238px;
+	height: 227px;
+	float: left;
+	margin-left: 19px;
+	position: relative;
+}
+.team_right h2{
+	font-size: 10px;
+	position: absolute;
+	top: 40px;
+	right: 25px;
+
+}
+.team_right h1{
+	font-size: 20px;
+	position: absolute;
+	top: 55px;
+	right: 13px;
+}
+.team_right span{
+	font-size: 14px;
+	position: absolute;
+	bottom: 40px;
+	right: 15px;
+	color: #a3a3a3;
+	width: 56px;
+}
+.team_right2{
+	width: 238px;
+	height: 227px;
+	float: left;
+	margin-left: 19px;
+	margin-top: 19px;
+	position: relative;
+}
+.team_right2 h2{
+	font-size: 10px;
+	position: absolute;
+	top: 40px;
+	right: 25px;
+
+}
+.team_right2 h1{
+	font-size: 20px;
+	position: absolute;
+	top: 55px;
+	right: 13px;
+}
+.team_right2 span{
+	font-size: 14px;
+	position: absolute;
+	bottom: 40px;
+	right: 15px;
+	color: #a3a3a3;
+	width: 56px;
+}
+.team_leftf{
+	float: right;
+	width: 237px;
+	height: 473px;
+}
+.team_rightf{
+	width: 238px;
+	height: 227px;
+	float: left;
+	margin-right: 19px;
+	position: relative;
+}
+.team_rightf h2{
+	font-size: 10px;
+	position: absolute;
+	top: 40px;
+	right: 25px;
+
+}
+.team_rightf h1{
+	font-size: 20px;
+	position: absolute;
+	top: 55px;
+	right: 13px;
+}
+.team_rightf span{
+	font-size: 14px;
+	position: absolute;
+	bottom: 40px;
+	right: 15px;
+	color: #a3a3a3;
+	width: 56px;
+}
+.team_rightf2{
+	width: 238px;
+	height: 227px;
+	float: left;
+	margin-right: 19px;
+	margin-top: 19px;
+	position: relative;
+}
+.team_rightf2 h2{
+	font-size: 10px;
+	position: absolute;
+	top: 40px;
+	right: 25px;
+
+}
+.team_rightf2 h1{
+	font-size: 20px;
+	position: absolute;
+	top: 55px;
+	right: 13px;
+}
+.team_rightf2 span{
+	font-size: 14px;
+	position: absolute;
+	bottom: 40px;
+	right: 15px;
+	color: #a3a3a3;
+	width: 56px;
+}
+.team_min{
+	width: 1200px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+.team_bot{
+	width: 1008px;
+	height: 600px;
+	margin: 0 auto;
+}
+.team_bottopic{
+	margin: 0 auto;
+	width: 279px;
+	height: 98px;
+	margin-bottom: 34px;
+}
+.team_man{
+	float: left;
+	width: 458px;
+	height: 150px;
+	margin-bottom: 38px;
+	margin-right: 90px;
+}
+.team_man img{
+	float: left;
+}
+.team_man span{
+	font-size: 36px;
+	color: #767676;
+	margin-left: 39px;
+	margin-top: 20px;
+	display: block;
+	float: left;
+
+}
+.team_man p{
+	width: 287px;
+	font-size: 16px;
+	color: #9f9f9f;
+	margin-left: 39px;
+	margin-top: 26px;
+	display: block;
+	float: left;
+
+}
+.team_man2{
+	float: left;
+	width: 458px;
+	height: 150px;
+	margin-bottom: 38px;
+}
+.team_man2 img{
+	float: left;
+}
+.team_man2 span{
+	font-size: 36px;
+	color: #767676;
+	margin-left: 39px;
+	margin-top: 20px;
+	display: block;
+	float: left;
+
+}
+.team_man2 p{
+	width: 287px;
+	font-size: 16px;
+	color: #9f9f9f;
+	margin-left: 39px;
+	margin-top: 26px;
+	display: block;
+	float: left;
+
+}
+.yema{
+	float: left;
+	width: 150px;
+	height: 31px;
+	margin-left: 430px;
+	margin-top: 10px;
+}
+.yema_num{
+	margin-top: 3.5px;
+	margin-right: 26px;
+	width: 24px;
+	height: 24px;
+	background-color: #e5e5e5;
+	font-size: 12px;
+	text-align: center;
+	line-height: 24px;
+	border-radius: 50%;
+	float: left;
+}

@@ -1,0 +1,259 @@
+.chenganli{
+	width: 1010px;
+	height: 845px;
+	margin: 0 auto;
+	margin-top: 30px;
+	position: relative;
+}
+.chenganli_kuangjia1{
+	float: left;
+	width: 468px;
+	height: 443px;
+	border: 2px solid #e4e4e4;
+	position: relative;
+}
+.chenganli_pic1{
+	width: 468px;
+	height: 342px;
+}
+.chenganli_touxiang {
+	width: 82px;
+	height: 82px;
+	position: absolute;
+	bottom: 60px;
+	left: 24px;
+	border-radius: 50%;
+	box-shadow: 0 5px 10px #79a2b6;
+	
+}
+.chenganli_w1{
+	font-size: 14px;
+	color: #c6c6c6;
+	margin-left: 117px;
+}
+
+.chenganli_w2{
+	font-size: 14px;
+	color: #2b6c8c;
+	margin-left: 11px;
+	font-weight: bolder;
+}
+.chenganli_xian{
+	float: left;
+	margin: 10px 0  10px 118px;
+}
+.chenganli_xian img{
+	float: left;
+}
+.chenganli_p{
+	float: left;
+	width: 280px;
+	font-size: 14px;
+	color: black;
+	margin-left: 117px;
+}
+.chenganli_jia{
+	width: 25px;
+	height: 25px;
+	border: 2px solid #dcdcdc;
+	font-size: 14px;
+	text-align: center;
+	line-height: 25px;
+	float: right;
+	margin-right: 20px;
+}
+.chenganli_kuangjia2{
+	float: left;
+	width: 228px;
+	height: 340px;
+	border: 2px solid #e4e4e4;
+	position: relative;
+	margin-left: 36px;
+}
+.chenganli_pic2{
+	width: 228px;
+	height: 229px;
+	margin-bottom: 12px;
+}
+.chenganli_touxiang2 {
+	width: 82px;
+	height: 82px;
+	position: absolute;
+	bottom: 70px;
+	left: 24px;
+	border-radius: 50%;
+	box-shadow: 0 5px 10px #79a2b6;
+	
+}
+.chenganli_w3{
+	font-size: 14px;
+	color: #2b6c8c;
+	margin-left: 113px;
+	font-weight: bolder;
+}
+.chenganli_xian2{
+	width: 200px;
+	height: 1px;
+	background-color: #dbdbdb;
+	margin: 0 auto;
+	margin-bottom: 12px;
+	margin-top: 18px;
+}
+.chenganli_p2{
+	float: left;
+	width: 197px;
+	font-size: 14px;
+	color: black;
+	margin-left: 15px;
+}
+.chenganli_kuangjia3{
+	float: left;
+	width: 228px;
+	height: 340px;
+	border: 2px solid #e4e4e4;
+	position: relative;
+	position: absolute;
+	left: 0px;
+	bottom: 20px;
+}
+.chenganli_kuangjia4{
+	float: left;
+	width: 228px;
+	height: 340px;
+	border: 2px solid #e4e4e4;
+	position: relative;
+	position: absolute;
+	left: 265px;
+	bottom: 20px;
+}
+.chenganli_kuangjia5{
+	float: right;
+	width: 468px;
+	height: 443px;
+	border: 2px solid #e4e4e4;
+	position: relative;
+	margin-top: 50px;
+}
+.anlimin{
+	width: 1366px;
+	height: 363px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+.wanchenganli{
+	width: 991px;
+	height: 1378px;
+	margin: 0 auto;
+}
+.wananli_top{
+	width: 991px;
+	margin:60px 0 34px ;
+	float: left;
+}
+.wananli_top img{
+	display: block;
+	margin: 0 auto;
+}
+.wananli_doc{
+	width: 510px;
+	margin: 0 auto;
+}
+.wananli_doc span{
+	font-size: 14px;
+	color:#000;
+	margin: 0 21px;
+}
+.wananli_pic{
+	width: 991px;
+	height: 311px;
+	margin-top: 45px;
+}
+.wananli_pic2{
+	width: 991px;
+	height: 311px;
+	margin-top: 24px;
+}
+.wananli_pica{
+	width: 314px;
+	height: 307px;
+	border: 2px solid #e4e4e4;	
+	float: left; 
+	margin-right: 18px;	
+}
+.wananli_w1{
+	font-size: 20px;
+	color: #3f3f3f;
+	margin: 22px 0 0 22px;
+}
+.wananli_w2{
+	font-size: 14px;
+	color: #c6c6c6;
+	margin: 5px 0 0 22px;
+}
+.wananli_touxiang{
+	float: left;
+	width: 44px;
+	height: 46px;
+	margin: 15px 0 0 20px;
+}
+.wananli_w3{
+	font-size: 14px;
+	color: #c6c6c6;
+	margin-left: 10px;
+	margin-top: 25px;
+	display:inline-block;
+	float: left;
+
+}
+
+.wananli_w4{
+	font-size: 14px;
+	color: #2b6c8c;
+	margin-left: 10px;
+	font-weight: bolder;
+	margin-top: 25px;
+	display:inline-block;
+	float: left;
+}
+.wananli_jia{
+	float: left;
+	width: 25px;
+	height: 25px;
+	background-color: black;
+	text-align: center;
+	line-height: 25px;
+	color: #fff;
+	margin-top: 20px;
+	margin-left: 48px;
+}
+.wananli_picb{
+	width: 314px;
+	height: 307px;
+	border: 2px solid #e4e4e4;	
+	float: left; 
+}
+.yema{
+	float: left;
+	width: 400px;
+	height: 31px;
+	margin-left: 295px;
+	margin-top: 50px;
+}
+.yema_left{
+	float: left;
+	font-size: 24px;
+	color: #4d4d4d;
+	margin-right: 26px;
+}
+.yema_num{
+	margin-top: 3.5px;
+	margin-right: 26px;
+	width: 24px;
+	height: 24px;
+	background-color: #e5e5e5;
+	font-size: 12px;
+	text-align: center;
+	line-height: 24px;
+	border-radius: 50%;
+	float: left;
+}

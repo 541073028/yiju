@@ -1,0 +1,183 @@
+.wenhua{
+	width: 1366px;
+	height: 444px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+.wenhua_left{
+	float: left;
+	width: 344px;
+	height: 372px;
+}
+.wenhua_doc{
+	width: 552px;
+	height: 372px;
+	float: left;
+	margin-left: 50px;
+}
+.wenhua_doc h2{
+	font-size: 14px;
+}
+.wenhua_doc h1{
+	font-size: 26px;
+}
+.wenhua_xian {
+	width: 552px;
+	height: 3px;
+	margin:20px 0;  
+}
+.wenhua_xian img{
+	float: left;
+	width: 552px;
+	height: 3px;
+}
+.wenhua_doc h3{
+	font-size: 20px;
+	color: #1d1d1d;
+	margin-bottom: 16px;
+}
+.wenhua_docp{
+	font-size: 16px;
+	color: #1d1d1d;
+	margin-bottom: 16px;
+}
+.wenhua_docp2{
+	font-size: 14px;
+	color: #a2a2a2;
+	width: 552px;
+	
+}
+.wenhua_more{
+	width: 134px;
+	height: 31px;
+	margin-top: 16px;
+}
+.wenhua_right{
+	height: 444px;
+	width: 252px;
+	float: right;
+}
+.dongtai{
+	width: 1013px;
+	height: 801px;
+	margin: 0 auto;
+}
+.dongtai_topic{
+	width: 1013px;
+	height: 486px;
+}
+.dongtai_left{
+	float: left;
+	width: 487px;
+	height: 315px;
+}
+.dongtai_left img{
+	margin-left: 180px;
+	margin-top: 200px;
+}
+.dongtai_right{
+	float: left;
+	width: 449px;
+	height: 315px;
+}
+.dongtai_right1{
+	width: 449px;
+	height: 114px;
+}
+.dongtai_right1 h1{
+	font-size: 20px;
+	color: #1d1d1d;
+	margin-left: 25px;
+	margin-bottom: 22px;
+}
+.dongtai_right1 p{
+	width: 400px;
+	font-size: 14px;
+	color: #1d1d1d;
+	margin-left: 25px;
+
+}
+.newpro{
+	width: 1366px;
+	height: 1377px;
+	margin: 0 auto;
+}
+.newpro_topic{
+	width: 1366px;
+	height: 140px;
+}
+.newpro_topic img{
+	margin: 0 auto;
+	display: block;
+}
+.newpro_pic1{
+	width: 1366px;
+	height: 400px;
+	position: relative;
+}
+.new_more1{
+	width: 134px;
+	height: 31px;
+	position: absolute;
+	bottom: 50px;
+	left: 710px;
+}
+.newpro_pic2{
+	width: 284px;
+	height: 682px;
+	float: left;
+}
+.newpro_pic3{
+	width: 1082px;
+	height: 400px;
+	float: left;
+	position: relative;
+}
+.new_more2{
+	width: 134px;
+	height: 31px;
+	position: absolute;
+	bottom: 61px;
+	right: 119px;
+}
+.newpro_pic4{
+	width: 1082px;
+	height: 202px;
+	float: left;
+}
+.newpro_pic4a{
+	width: 233px;
+	height: 187px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 12px;
+}
+.newpro_pic4b{
+	width: 229px;
+	height: 183px;
+	float: left;
+	margin-top: 18px;
+	margin-left: 12px;
+}
+.city_topic{
+	width: 1082px;
+	height: 165px;
+	float: left;
+}
+.city_topic img{
+	margin-left: 260px;
+	margin-top: 65px;
+}
+.city{
+	width: 996px;
+	height: 402px;
+	margin: 0 auto;
+	position: relative;
+}
+.city_more{
+	width: 134px;
+	height: 31px;
+	position: absolute;
+	bottom: 78px;
+	right: 220px;
+}
